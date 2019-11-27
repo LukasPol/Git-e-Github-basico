@@ -4,3 +4,4 @@
 | Diego | [diegoshakan](https://github.com/diegoshakan) | - |
 | Marcos | [MarcosBB](https://github.com/MarcosBB) | - |
 |Douglas de Abreu| [douglas-abreu](https://github.com/douglas-abreu) | - |
+| fulano | fulanooo | - |
