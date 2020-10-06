@@ -7,3 +7,4 @@
 | awa | [Rletal](https://github.com/Rletal) | - |
 | Marcos | [MarcosBB](https://github.com/MarcosBB) | [BomDiaECia](4002-8922) |
 | Douglas | [douglasconfessor](https://github.com/douglasconfessor) | [instagram](https://instagram.com/douglasconfessor_) |
+| José Maria Jr | [jozemaria](https://github.com/jozemaria) | [telegram](https://telegram.me/jozemariajr) - [LinkedIn](https://www.linkedin.com/in/jozemariajr/)

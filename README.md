@@ -5,7 +5,7 @@ Repositorio para os alunos que paticiparam da apresentação de Git e GitHub.
 ## Link do slide
 https://docs.google.com/presentation/d/1SdkBGPvqnW7TXYfqGgds2pNubGyBfqkcOULtPpWgCdI/edit?usp=sharing
 
-##Comandos utilizados:
+## Comandos utilizados:
 
 ### GIT
 ```git
@@ -49,3 +49,7 @@ git clone <link>
 ```git
 git checkout -b <nome-branch>
 ```
+### Clique no link, e veja os alunos participantes:
+[LISTA DE ALUNOS](https://github.com/LukasPol/Semana-Ciencia-e-tecnologia/blob/master/listaAlunos.md)
+
+[IFRN-PAR](https://portal.ifrn.edu.br/campus/parnamirim)
